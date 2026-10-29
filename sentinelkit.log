@@ -1,0 +1,10 @@
+2026-10-28 23:12:51,025 [INFO] sentinelkit.scan: Starting scan of 192.168.1.12
+2026-10-28 23:12:51,026 [INFO] sentinelkit.scan: Scan of 192.168.1.12 completed successfully
+2026-10-28 23:13:58,019 [INFO] sentinelkit.scan: Starting scan of 192.168.1.12
+2026-10-28 23:13:58,022 [INFO] sentinelkit.scan: Scan of 192.168.1.12 completed successfully
+2026-10-28 23:14:29,506 [INFO] sentinelkit.scan: Starting scan of 192.168.
+2026-10-28 23:14:29,506 [ERROR] sentinelkit.scan: Scan target error: 192.168.
+Reason: Invalid IPv4 address: Expected 4 octets in '192.168.'
+Suggested action: Provide a valid IPv4 address, for example 192.168.1.12.
+2026-10-28 23:15:06,022 [INFO] sentinelkit.scan: Starting scan of 192.168.1.12
+2026-10-28 23:15:06,023 [INFO] sentinelkit.scan: Scan of 192.168.1.12 completed successfully
